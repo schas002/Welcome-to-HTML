@@ -66,7 +66,6 @@ Save it somewhere where you can find it. The path to the place should not have s
 
 **Congraubbulations**! You are all set to make web pages.
 
-{% em color="#f1ecba" %}
 ### A Note on TextEdit and Plain Text (macOS)
 
 TextEdit is usually a Rich Text File (RTF) editor. This is not right, because HTML files are plain text files. You need to set it to plain text.
@@ -90,4 +89,3 @@ There are many powerful programs dedicated to viewing and editing pages, or even
 - [KompoZer](http://www.kompozer.net/)
 
 Options like these come to mind. But your distributors provide tools that are free, always available, and capable of handling the basics. By mastering these tools, they should be your first stop for editing web pages.
-{% endem %}
