@@ -2,7 +2,7 @@
 
 * [Preface](book/README.md)
 * [Welcome to HTML](book/welcome-to-html.md)
-* Text elements
+* [Text elements](book/text-elements.md)
 * Commentary
 * Images
 * Anchors
